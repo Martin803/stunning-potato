@@ -36,14 +36,14 @@ Responsive
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-https://www.ah.nl/
+https://www.apple.com/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-Homepage AH 
+Homepage Apple
 <img src="images/ah.jpg" width="375px" alt="eerste pagina van de Albert heijn website">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-Bonus AH
+Apple
 <img src="images/bonus.jpg" width="375px" alt="De Aanbiedingen pagina van de Albert Heijn">
  
 </details>
