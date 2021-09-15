@@ -40,11 +40,11 @@ https://www.apple.com/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Homepage Apple
-<img src="images/ah.jpg" width="375px" alt="eerste pagina van de Albert heijn website">
+<img src="images/Schermafbeelding 2021-09-15 om 15.02.10.png" width="375px" alt="eerste pagina van de Albert heijn website">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Apple
-<img src="images/bonus.jpg" width="375px" alt="De Aanbiedingen pagina van de Albert Heijn">
+<img src="images/Schermafbeelding 2021-09-15 om 15.02.37.png" width="375px" alt="De Aanbiedingen pagina van de Albert Heijn">
  
 </details>
 
