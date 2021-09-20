@@ -1,50 +1,364 @@
-@font-face {
-    font-family: "Yanone Kaffeesatz";
-    src: url("../fonts/YanoneKaffeesatz-Regular.ttf");
+:root{
+--nav--color: black;
+--text--color: #FFFFFF;
+--text2--color: black;
+--artikel3Achtergrond--color: #35283C;
+--footerAchtergrond--color: #1D1D1F;
 }
+
+/********************************* Fonts ********************************/
+
+@font-face {
+    font-family: 'san-francisco';
+    src: url("/Users/martin/Desktop/HVA/Jaar 2/Blok 1/FED/Eindopdracht/font/SFUIDisplay-Regular.otf") format("truetype");
+}
+
+@font-face {
+    font-family: 'san-francisco-bold';
+    src: url("/Users/martin/Desktop/HVA/Jaar 2/Blok 1/FED/Eindopdracht/font/SFUIDisplay-Semibold.otf") format("truetype");
+}
+
 body {
     margin: 0;
+    background-color: var(--nav--color);
 }
+
+/********************************* Navigatie ********************************/
+
 nav {
-    background-color:black;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color: var(--nav--color);
+    opacity: 90%;
+    padding: .5em;
+}
+
+nav ul {
+    background-color: var(--nav--color);
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0.5em;
+    padding-left: .5em;
+    padding-right: .5em;
+    margin: 0;
 }
 
-nav li {
+nav ul li {
     color: white;
     list-style: none;
     flex-direction: row;
 }
 
-nav li img {
+nav ul li img {
     width: 20px;
 }
 
-article {
+/********************************* eerste artikel ********************************/
+
+article:first-of-type {
     margin: 0;
     position: relative;
     display: flex;
     width: 100%;
     overflow: hidden;
     justify-content: center;
-    height:622px;
+    height: 670px;
     text-align: center;
 }
 
-article h2 {
+article:first-of-type h2 {
    position: absolute;
-   color: white;
-   top: 16em;
+   color: var(--text--color);
+   top: 10.5em;
+   font-family: 'san-francisco';
+   font-size: 220%;
+   white-space: pre;
 }
 
-article p {
+article:first-of-type p {
     position: absolute;
-    color: white;
-    top: 28em;
-    max-width: 330px;
+    color: var(--text--color);
+    top: 27.5em;
+    max-width: 310px;
+    font-family: 'san-francisco';
+    font-size: 110%;
+}
+
+article:first-of-type button {
+    position: absolute;
+    top: 37em;
+    max-width: 290px;
+    background-color: transparent;
+    padding: .5em;
+    padding-left: 1em;
+    padding-right: 1em;
+    border: solid 2px;
+    border-radius: 3em;
+    color: var(--text--color);
+    font-family: 'san-francisco';
+    font-size: 100%;
+    border-color: var(--text--color);
+}
+
+/********************************* tweede artikel ********************************/
+
+article:nth-of-type(2) {
+    margin: 0;
+    background-color: var(--text--color);
+    position: relative;
+    display: flex;
+    width: 100%;
+    overflow: hidden;
+    justify-content: center;
+    height: 630px;
+    text-align: center;
+}
+
+article:nth-of-type(2) img{
+    position: absolute;
+    top: 30em;
+    width: 375px;
+    height: 175px;
+    object-fit: cover;
+}
+
+article:nth-of-type(2) h2 {
+    position: absolute;
+    color: var(--text2--color);
+    top: 1.5em;
+    font-family: 'san-francisco';
+    font-size: 220%;
+}
+
+article:nth-of-type(2) p {
+    position: absolute;
+    color: var(--text2--color);
+    top: 7.5em;
+    max-width: 250px;
+    font-family: 'san-francisco-bold';
+    font-size: 115%;
+}
+
+article:nth-of-type(2) button:first-of-type {
+    position: absolute;
+    top: 20em;
+    left: 4em;
+    background-color: transparent;
+    padding: .5em;
+    padding-left: 1em;
+    padding-right: 1em;
+    border: solid 2px;
+    border-radius: 3em;
+    color: var(--text2--color);
+    font-family: 'san-francisco';
+    font-size: 100%;
+    border-color: var(--text2--color);
+}
+
+article:nth-of-type(2) button:nth-of-type(2) {
+    position: absolute;
+    top: 20em;
+    right: 4em;
+    max-width: 290px;
+    background-color: transparent;
+    padding: .5em;
+    padding-left: 1em;
+    padding-right: 1em;
+    border: solid 2px;
+    border-radius: 3em;
+    color: var(--text2--color);
+    font-family: 'san-francisco';
+    font-size: 100%;
+    border-color: var(--text2--color);
+}
+
+/********************************* derde artikel ********************************/
+
+article:nth-of-type(3) {
+    margin: 0;
+    background-color: var(--artikel3Achtergrond--color);
+    position: relative;
+    display: flex;
+    width: 100%;
+    overflow: hidden;
+    justify-content: center;
+    height: 630px;
+    text-align: center;
+}
+
+article:nth-of-type(3) img {
+    position: absolute;
+    top: 27.1em;
+    width: 400px;
+    object-fit: cover;
+}
+
+article:nth-of-type(3) h2 {
+    position: absolute;
+    color: var(--text--color);
+    top: 1.5em;
+    font-family: 'san-francisco';
+    font-size: 220%;
+}
+
+article:nth-of-type(3) p {
+    position: absolute;
+    color: var(--text--color);
+    top: 7.5em;
+    max-width: 250px;
+    font-family: 'san-francisco-bold';
+    font-size: 115%;
+}
+
+article:nth-of-type(3) button:first-of-type {
+    position: absolute;
+    top: 20em;
+    left: 4em;
+    background-color: transparent;
+    padding: .5em;
+    padding-left: 1em;
+    padding-right: 1em;
+    border: solid 2px;
+    border-radius: 3em;
+    color: var(--text--color);
+    font-family: 'san-francisco';
+    font-size: 100%;
+    border-color: var(--text--color);
+}
+
+article:nth-of-type(3) button:nth-of-type(2) {
+    position: absolute;
+    top: 20em;
+    right: 4em;
+    max-width: 290px;
+    background-color: transparent;
+    padding: .5em;
+    padding-left: 1em;
+    padding-right: 1em;
+    border: solid 2px;
+    border-radius: 3em;
+    color: var(--text--color);
+    font-family: 'san-francisco';
+    font-size: 100%;
+    border-color: var(--text--color);
+}
+
+/********************************* vierde artikel ********************************/
+
+article:nth-of-type(4) {
+    margin: 0;
+    background-color: #F5F5F7;
+    position: relative;
+    display: flex;
+    width: 100%;
+    overflow: hidden;
+    justify-content: center;
+    height: 630px;
+    text-align: center;
+}
+
+article:nth-of-type(4) img {
+    position: absolute;
+    top: 20em;
+    width: 375px;
+    object-fit: cover;
+}
+
+article:nth-of-type(4) h2 {
+    position: absolute;
+    color: var(--text2--color);
+    top: 1em;
+    font-family: 'san-francisco';
+    font-size: 220%;
+}
+
+article:nth-of-type(4) p {
+    position: absolute;
+    color: var(--text2--color);
+    top: 5.5em;
+    max-width: 250px;
+    font-family: 'san-francisco-bold';
+    font-size: 115%;
+}
+
+article:nth-of-type(4) button:first-of-type {
+    position: absolute;
+    top: 17em;
+    left: 4em;
+    background-color: transparent;
+    padding: .5em;
+    padding-left: 1em;
+    padding-right: 1em;
+    border: solid 2px;
+    border-radius: 3em;
+    color: var(--text2--color);
+    font-family: 'san-francisco';
+    font-size: 100%;
+    border-color: var(--text2--color);
+}
+
+article:nth-of-type(4) button:nth-of-type(2) {
+    position: absolute;
+    top: 17em;
+    right: 4em;
+    max-width: 290px;
+    background-color: transparent;
+    padding: .5em;
+    padding-left: 2.3em;
+    padding-right: 2.3em;
+    border: solid 2px;
+    border-radius: 3em;
+    color: var(--text2--color);
+    font-family: 'san-francisco';
+    font-size: 100%;
+    border-color: var(--text2--color);
+}
+
+/********************************* vierde artikel ********************************/
+
+footer{
+    margin: 0;
+    background-color: var(--footerAchtergrond--color);
+    width: 100%;
+    height: 520px;
+}
+
+footer div{
+    border-bottom: solid 1px rgb(53, 53, 53);
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 340px;
+    max-height: 50px;
+    padding-top: .5em;
+    position: relative;
+}
+
+footer div img{
+    max-width: 8px;
+    position: absolute;
+    right: 3px;
+    bottom: 10px;
+}
+
+footer div p {
+    color: var(--text--color);
+    font-family: 'san-francisco';
+    font-size: 80%;
+    margin: 0;
+    padding: .5em;
+}
+
+footer p {
+    color: grey;
+    font-family: 'san-francisco';
+    font-size: 80%;
+    max-width: 340px;
+    margin: 0;
+    margin-top: 1em;
+    padding: .5em;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
