@@ -141,10 +141,13 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
 
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Een voice over programma is erg moelijk om te leren gebruiken
+Ik kon het niet werkend krijgen en ik kan me voorstellen dat dit voor iemand zonder visie nog moeilijker is om te ondekkken hoe dit werkt.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+er is een totorial maar die heb ik niet gevolgd omdat ik te weinig tijd daar voor had.
+ 
+ <img src="images/IMG_2400.JPG" width="375px" alt="breakdown van de hele pagina">
+
 
 
 #### Titel tweede bevinding. 
