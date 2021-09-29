@@ -231,8 +231,12 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. https://www.pngkey.com/download/u2q8a9r5y3t4q8a9_apple-grey-logo-png-transparent-logo-apple-vector/
+2. https://www.clipartmax.com/middle/m2i8i8b1G6Z5N4K9_white-apple-logo-transparent/
+3. https://toppng.com/show_download/349163/website-add-ons-inquire-now-plus-transparent-white/large
+4. https://www.apple.com/nl/ipad/
+5. https://www.apple.com/nl/iphone-13/
+6. https://www.macrumors.com/roundup/iphone-13-pro/
+7. https://www.appletips.nl/icandy/california-streaming-wallpaper/ 
 
 </details>
