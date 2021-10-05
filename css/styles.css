@@ -10,12 +10,12 @@
 
 @font-face {
     font-family: 'san-francisco';
-    src: url("/Users/martin/Desktop/HVA/Jaar 2/Blok 1/FED/Eindopdracht/font/SFUIDisplay-Regular.otf") format("truetype");
+    src: url("../font/SFUIDisplay-Regular.otf") format("truetype");
 }
 
 @font-face {
     font-family: 'san-francisco-bold';
-    src: url("/Users/martin/Desktop/HVA/Jaar 2/Blok 1/FED/Eindopdracht/font/SFUIDisplay-Semibold.otf") format("truetype");
+    src: url("../font/SFUIDisplay-Semibold.otf") format("truetype");
 }
 
 body {
