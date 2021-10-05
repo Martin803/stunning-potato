@@ -22,7 +22,7 @@ Martin Schaapherder
 Rood
 
 #### Je focus:
-Responsive
+Surface
  
 </details>
 
@@ -40,11 +40,11 @@ https://www.apple.com/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Homepage Apple
-<img src="images/Schermafbeelding 2021-09-15 om 15.02.10.png" width="375px" alt="eerste pagina van de Albert heijn website">
+<img src="images/Schermafbeelding 2021-09-15 om 15.02.10.png" width="375px" alt="eerste pagina van apple">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Apple
-<img src="images/Schermafbeelding 2021-09-15 om 15.02.37.png" width="375px" alt="De Aanbiedingen pagina van de Albert Heijn">
+<img src="images/Schermafbeelding 2021-09-15 om 15.02.37.png" width="375px" alt="iphone pagina">
  
 </details>
 
@@ -146,7 +146,7 @@ Ik kon het niet werkend krijgen en ik kan me voorstellen dat dit voor iemand zon
 
 er is een totorial maar die heb ik niet gevolgd omdat ik te weinig tijd daar voor had.
  
- <img src="images/IMG_2400.JPG" width="375px" alt="breakdown van de hele pagina">
+ <img src="images/Schermafbeelding 2021-09-29 om 10.45.35" width="375px" alt="breakdown van de hele pagina">
 
 
 
@@ -179,26 +179,19 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik had me verslapen want ik dacht dst het later was dus ik was er helaas niet bij
 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
+| student 1      |
+| ---            |
+| Ik had geen vragen voor deze meeting ookal was ik er niet bij|
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+ -
 
 </details>
 
@@ -212,11 +205,21 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik had weinig tijd omdat ik nog een andere opdracht af moest maken, en ook moest werken in het weekend. Maar ik heb Maandag de heledag de tijd gehad om eraan te werken. Alles ging eigenlijk vrij goed behalve de costum fonts op github goed krijgen en ik had problemen met css specificity op de tweede pagina, en ik werd er knettergek van dus ik heb uiteindelijk class selectoren en id selectoren gebruikt.
 
 ### Screenshot(s)
 
 hier screenshot(s) van je eindresultaat
+ 
+ 
+ <img src="images/iphone pagina" width="375px" alt="">
+ 
+ <img src="images/footer" width="375px" alt="">
+ 
+ <img src="images/menu" width="375px" alt="">
+ 
+ <img src="images/whichpagina" width="375px" alt="">
+ 
 
 </details>
 
@@ -238,5 +241,7 @@ Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 5. https://www.apple.com/nl/iphone-13/
 6. https://www.macrumors.com/roundup/iphone-13-pro/
 7. https://www.appletips.nl/icandy/california-streaming-wallpaper/ 
+8. https://www.apple.com/iphone/
+9. https://dev.to/ljcdev/easy-hamburger-menu-with-js-2do0
 
 </details>
