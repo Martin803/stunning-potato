@@ -45,7 +45,7 @@ Homepage Apple
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Iphone pagina
-![iphonepagina] (https://github.com/Martin803/stunning-potato/blob/main/images/iphonepagina.png)
+![iphonepagina](https://github.com/Martin803/stunning-potato/blob/main/images/iphonepagina.png)
 
  
 </details>
@@ -166,7 +166,7 @@ een oplossing is grotere buttons die makkelijk zijn aan te klikken en ook dat je
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-Ik had me verslapen want ik dacht dst het later was dus ik was er helaas niet bij
+Ik had me verslapen want ik dacht dat het later was dus ik was er helaas niet bij
 
 
 ### Agenda voor meeting
