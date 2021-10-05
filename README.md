@@ -40,11 +40,13 @@ https://www.apple.com/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Homepage Apple
-<img src="images/Schermafbeelding 2021-09-15 om 15.02.10.png" width="375px" alt="eerste pagina van apple">
+![home](https://github.com/Martin803/stunning-potato/blob/main/images/homepage.png)
+
 
 #### Screenshot(s) van de tweede pagina (small screen):
-Apple
-<img src="images/Schermafbeelding 2021-09-15 om 15.02.37.png" width="375px" alt="iphone pagina">
+Iphone pagina
+![iphonepagina] (https://github.com/Martin803/stunning-potato/blob/main/images/iphonepagina.png)
+
  
 </details>
 
@@ -73,26 +75,21 @@ Apple
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik had een wat moeizame start maar ik ben toch best ver gekomen ik had wat problemen met de juiste font erin krijgen.
 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| student 1      |
+| Ik had vragen wat de beste manier was om een font erin te krijgen.           
+
 
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Ik kreeg te horen van de docent dat @font-face handig is, dus daar ben ik over gaan researchen.
 
 </details>
 
@@ -106,26 +103,22 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+ik was lekker bezig alles ging prima alleen had ik wat struggles met het maken van een navigatie maar dat is uiteindelijk aan de hand van een totorial toch nog gelukt.
 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| student 1      |
+| ---            |
+| ik wou graag meer weten over backdrop-filter.
+
 
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- ik heb erachter gekomen dat ik goed op weg was en dat mijn code er goed uitzag.
 
 </details>
 
@@ -150,22 +143,16 @@ er is een totorial maar die heb ik niet gevolgd omdat ik te weinig tijd daar voo
 
 
 
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Contrast was slecht te lezen met bepaalde handicap bril 
+wat de title zegt.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+dit kan opgelost worden door een contrast checker te gebruiken en aan de hand van die website nieuwe kleuren kiezen
 
 
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Met een spasme beperking is het heel erg moeilijk om een computer te gebruiken. 
+Ik heb zelf geprobeerd om met de spasme simulator mijn laptop te gebruiken maar het was onmogelijk. ik kan me voorstellen mensen die het echt hebben dat die er beter mee om kunnen gaan maar ik vond het erg lastig
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+een oplossing is grotere buttons die makkelijk zijn aan te klikken en ook dat je makkelijk weer terug kan als je perongeluk een fout hebt gemaakt.
 
 </details>
 
