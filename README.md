@@ -146,7 +146,7 @@ Ik kon het niet werkend krijgen en ik kan me voorstellen dat dit voor iemand zon
 
 er is een totorial maar die heb ik niet gevolgd omdat ik te weinig tijd daar voor had.
  
- <img src="images/Schermafbeelding 2021-09-29 om 10.45.35" width="375px" alt="breakdown van de hele pagina">
+![toegankelijkheid](https://github.com/Martin803/stunning-potato/blob/main/images/Schermafbeelding%202021-09-29%20om%2010.45.35.png)
 
 
 
@@ -211,14 +211,15 @@ Ik had weinig tijd omdat ik nog een andere opdracht af moest maken, en ook moest
 
 hier screenshot(s) van je eindresultaat
  
+ ![home](https://github.com/Martin803/stunning-potato/blob/main/images/homepage.png)
  
- <img src="images/iphone pagina" width="375px" alt="iphone pagina">
+ ![iphone pagina](https://github.com/Martin803/stunning-potato/blob/main/images/iphone%20pagina.png)
  
- <img src="images/footer" width="375px" alt="footer">
+![which](https://github.com/Martin803/stunning-potato/blob/main/images/whichpagina.png)
  
- <img src="images/menu" width="375px" alt="menu">
+ ![menu](https://github.com/Martin803/stunning-potato/blob/main/images/menu.png)
  
- <img src="images/whichpagina" width="375px" alt="whichpagina">
+![footer](https://github.com/Martin803/stunning-potato/blob/main/images/footer.png)
  
 
 </details>
