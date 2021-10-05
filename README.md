@@ -58,7 +58,7 @@ Apple
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-<img src="../images/IMG_2420_2.JPG" width="375px" alt="breakdown van de hele pagina">
+![menu](IMG_2420_2.jpg)
 
 
 </details>
