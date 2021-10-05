@@ -58,7 +58,7 @@ Apple
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-![menu](IMG_2420_2.jpg)
+![menu](../images/IMG_2420_2.jpg)
 
 
 </details>
