@@ -58,7 +58,7 @@ Apple
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-![menu](../images/IMG_2420_2.jpg)
+![menu](https://github.com/Martin803/stunning-potato/blob/main/images/IMG_2420_2.jpg)
 
 
 </details>
