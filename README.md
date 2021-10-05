@@ -58,7 +58,7 @@ Apple
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-<img src="images/IMG_2400.JPG" width="375px" alt="breakdown van de hele pagina">
+<img src="../images/IMG_2420_2.JPG" width="375px" alt="breakdown van de hele pagina">
 
 
 </details>
@@ -212,13 +212,13 @@ Ik had weinig tijd omdat ik nog een andere opdracht af moest maken, en ook moest
 hier screenshot(s) van je eindresultaat
  
  
- <img src="images/iphone pagina" width="375px" alt="">
+ <img src="images/iphone pagina" width="375px" alt="iphone pagina">
  
- <img src="images/footer" width="375px" alt="">
+ <img src="images/footer" width="375px" alt="footer">
  
- <img src="images/menu" width="375px" alt="">
+ <img src="images/menu" width="375px" alt="menu">
  
- <img src="images/whichpagina" width="375px" alt="">
+ <img src="images/whichpagina" width="375px" alt="whichpagina">
  
 
 </details>
